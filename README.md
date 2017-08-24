@@ -7,6 +7,7 @@ both the mainProject Maven project as well as the dependencyProject Maven projec
 Features shared by this and our main project
 - Spring
 - Java
+- Maven
 - Freemarker
 - Freemarker is configured to load templates from multiple locations on the classpath
 - Freemarker files are located in multiple dependent Maven projects
