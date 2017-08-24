@@ -14,3 +14,12 @@ Features shared by this and our main project
 Differences
 - This project uses Spring Boot, the main project does not
 - This project is much smaller
+
+Import the two subdirectories as two Maven modules into your project. Import the entire Git project folder 
+as a single IntelliJ project.
+
+Run the "WebApplication" class in the mainProject to see that the Freemarker calls are working.
+
+Project tree:
+
+![Image of Project Tree](project_layout.png)
